@@ -2,8 +2,8 @@
 
 
 - 👋 Hi, I’m AMIT KUMAR
-- 👀 I’m interested in Web Development and BIOINFORMATACTION
-- 🌱 I’m currently PASSED Btech From Bundelkhand University
+- 👀 I’m interested in Web Development and BIOINFORMATACIAN
+- 🌱 I’ve currently PASSED Btech From Bundelkhand University
 - 💞️ I’m looking to collaborate on Projects React.js 
 - 📫 contact me : sharmaamit08971@gmail.com
 
@@ -11,11 +11,11 @@
 [![linkedin](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2RYeN56EvozwyyxYGDw4dTu-pbUZyNxnF93zSLUcOlQ&s)](https://www.linkedin.com/in/mohit-sharma-956261209/)
 [![Instagram](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7sbjg5IFhXNswHd6qC09z3pAMDZmFhDXhoCDqv9FdiQ&s)](https://www.instagram.com/mohitsharma__01/) -->
 
-[![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/MOHITSH84171919)
-[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/mohitsharma__01/)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/mohit-sharma-956261209/)
-[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:mohit199sharma199@gmail.com)
-<p><img src="https://github-profile-trophy.vercel.app/?username=mohitsharma614&row=1&margin-w=15&margin-h=15&theme=darkhub" alt="Mohit" /></p>
+[![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/Ganotramit)
+[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)]()
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/amit-kumar-ganotra-20159b272/)
+[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:sharmaamit08971@gmail.com)
+<p><img src="https://github-profile-trophy.vercel.app/?username=mohitsharma614&row=1&margin-w=15&margin-h=15&theme=darkhub" alt="AMIT" /></p>
 
 <hr>
 
