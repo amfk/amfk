@@ -1,10 +1,11 @@
 # _AMIT KUMAR GANOTRA_
 
 
-- 👋 Hi, I’m AMIT KUMAR
-- 👀 I’m interested in Web Development and BIOINFORMATACIAN
-- 🌱 I’ve currently PASSED Btech From Bundelkhand University
-- 💞️ I’m looking to collaborate on Projects React.js 
+- 👋 Hi, I’m AMIT KUMAR GANOTRA
+- 👀 I’m interested in WEB DEVELOPMENT , SOFTWARE ENGINEERING , BIOINFORMATICS AND COMPUTATIONAL BIOLOGY
+- PURSUING MY M.TECH IN PHARMACEUTICAL SCIENCE AND ENGINEERING FROM IIT(ISM) DHANBAD
+- - 🌱 I’ve PASSED B.tech From Bundelkhand University 
+- 💞️ I’m looking to collaborate on Projects React.js,PROTEIN MODELLING , MOLECULAR DOCKING AND SIMULATION
 - 📫 contact me : sharmaamit08971@gmail.com
 
 <!-- [![twitter](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx-v8Lr08f7l2EPuwR9-9_-SaC20zKpbHhX2UbWAgN7Q&s)](https://twitter.com/MOHITSH84171919)
